@@ -10,13 +10,17 @@
 ### CVD UAE
 * https://link.springer.com/article/10.1186/s12872-019-1131-2#Sec15
 
-### Diabetes
+<!--- ### Diabetes
+* https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database --->
 
 ### Haberman
+* https://archive.ics.uci.edu/dataset/43/haberman+s+survival
 
 ### HCC-data
+* https://archive.ics.uci.edu/dataset/423/hcc+survival
 
 ### Heart
+* https://archive.ics.uci.edu/dataset/45/heart+disease
 
 ### Mammographic
 * https://github.com/Sobiam1/Breast-Cancer-Classification-Using-Mammography-Masses-Results
@@ -28,6 +32,7 @@
 * https://archive.ics.uci.edu/dataset/95/spect+heart
 
 ### Stroke
+* https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ### Wisconsin breast cancer
 * https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original
