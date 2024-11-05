@@ -38,14 +38,14 @@
 ### Obesity
 * https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
 
-% ### Diabetes 130-US Hospitals for Years 1999-2008
-% * https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+<!--- ### Diabetes 130-US Hospitals for Years 1999-2008
+* https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008 -->
 
 ### Hepatitis Dataset
 * https://archive.ics.uci.edu/dataset/46/hepatitis
 
-% ### Diabetes Health Indicators Dataset 
-% * https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?resource=download
+<!--- ### Diabetes Health Indicators Dataset 
+* https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?resource=download -->
 
 ### Parkinsons
 * https://archive.ics.uci.edu/dataset/174/parkinsons
