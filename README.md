@@ -1,4 +1,5 @@
 # Benchmarking Outlier Detection Algorithms in Healthcare: An Analysis Across Diverse Medical Datasets
+Jaloliddin et al.
 
 ## Datasets used in this study
 ### Appendicitis
